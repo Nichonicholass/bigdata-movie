@@ -1,0 +1,6 @@
+title,top_n,overlap_count,overlap_ratio,avg_similarity_old,avg_similarity_v2,old_only_count,v2_only_count,status
+Blood & Water,10,1,0.1,0.1297,0.1356,9,9,ok
+Narcos,10,8,0.8,0.1885,0.1823,2,2,ok
+The Crown,10,6,0.6,0.1272,0.1469,4,4,ok
+Breaking Bad,10,3,0.3,0.1469,0.1376,7,7,ok
+Money Heist,10,0,0.0,,,0,0,not_found
