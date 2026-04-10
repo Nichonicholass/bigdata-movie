@@ -1,0 +1,6 @@
+query,returned_items,avg_score,max_score,genre_diversity
+dark magic and fantasy world,5,0.5019,0.517,7
+investigating a serial killer,5,0.5386,0.5663,5
+funny stand up comedy,5,0.6159,0.6412,3
+slow emotional romance,5,0.5486,0.5842,8
+political crime thriller,5,0.5871,0.5964,7
