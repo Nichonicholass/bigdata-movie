@@ -1,0 +1,11 @@
+query_a,query_b,overlap_count,overlap_ratio
+dark magic and fantasy world,investigating a serial killer,0,0.0
+dark magic and fantasy world,funny stand up comedy,0,0.0
+dark magic and fantasy world,slow emotional romance,0,0.0
+dark magic and fantasy world,political crime thriller,0,0.0
+investigating a serial killer,funny stand up comedy,0,0.0
+investigating a serial killer,slow emotional romance,0,0.0
+investigating a serial killer,political crime thriller,0,0.0
+funny stand up comedy,slow emotional romance,0,0.0
+funny stand up comedy,political crime thriller,0,0.0
+slow emotional romance,political crime thriller,0,0.0

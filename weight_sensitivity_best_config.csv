@@ -1,0 +1,4 @@
+scenario,best_config,best_weighted_score
+balanced,hybrid_dense_lexical,0.79
+precision_first,hybrid_dense_lexical,0.7896
+ranking_quality_first,hybrid_dense_lexical,0.8778

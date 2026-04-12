@@ -1,0 +1,16 @@
+config,query,k,precision_at_k,recall_at_k,mrr_at_k,ndcg_at_k,avg_similarity_topk,relevant_in_pool
+dense_default,dark magic and fantasy world,5,0.6,0.039,0.5,0.7123,0.5019,77
+dense_default,investigating a serial killer,5,0.8,0.0449,1.0,0.9558,0.5386,89
+dense_default,funny stand up comedy,5,1.0,0.0505,1.0,1.0,0.6159,99
+dense_default,slow emotional romance,5,0.6,0.3333,0.5,0.7123,0.5486,9
+dense_default,political crime thriller,5,0.6,0.0857,1.0,1.0,0.5871,35
+dense_weighted,dark magic and fantasy world,5,0.6,0.0395,0.5,0.7328,0.4819,76
+dense_weighted,investigating a serial killer,5,0.8,0.0476,1.0,0.9829,0.4862,84
+dense_weighted,funny stand up comedy,5,1.0,0.051,1.0,1.0,0.5792,98
+dense_weighted,slow emotional romance,5,0.6,0.2727,1.0,0.9675,0.4845,11
+dense_weighted,political crime thriller,5,0.6,0.0789,1.0,1.0,0.5402,38
+hybrid_dense_lexical,dark magic and fantasy world,5,1.0,0.0581,1.0,1.0,0.8545,86
+hybrid_dense_lexical,investigating a serial killer,5,1.0,0.0556,1.0,1.0,0.8714,90
+hybrid_dense_lexical,funny stand up comedy,5,1.0,0.05,1.0,1.0,0.84,100
+hybrid_dense_lexical,slow emotional romance,5,0.6,0.0448,0.5,0.6797,0.7899,67
+hybrid_dense_lexical,political crime thriller,5,1.0,0.0714,1.0,1.0,0.7724,70

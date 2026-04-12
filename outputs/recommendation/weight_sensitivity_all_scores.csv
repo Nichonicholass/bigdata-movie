@@ -1,0 +1,10 @@
+config,ndcg_at_k,mrr_at_k,precision_at_k,recall_at_k,scenario,weighted_score,rank_in_scenario
+hybrid_dense_lexical,0.9359,0.9,0.92,0.056,balanced,0.7899649999999999,1
+dense_weighted,0.9366,0.9,0.72,0.0979,balanced,0.7564949999999999,2
+dense_default,0.8761,0.8,0.72,0.1107,balanced,0.70724,3
+hybrid_dense_lexical,0.9359,0.9,0.92,0.056,precision_first,0.7895800000000001,1
+dense_weighted,0.9366,0.9,0.72,0.0979,precision_first,0.706005,2
+dense_default,0.8761,0.8,0.72,0.1107,precision_first,0.6758250000000001,3
+hybrid_dense_lexical,0.9359,0.9,0.92,0.056,ranking_quality_first,0.87775,1
+dense_weighted,0.9366,0.9,0.72,0.0979,ranking_quality_first,0.8601949999999999,2
+dense_default,0.8761,0.8,0.72,0.1107,ranking_quality_first,0.7955849999999999,3
